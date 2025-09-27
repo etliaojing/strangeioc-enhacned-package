@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7940c40bb64149298392ac4e45f356f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/api/IEventBinding.cs
+  uploadId: 2759

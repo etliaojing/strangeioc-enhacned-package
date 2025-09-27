@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7825ec25cb7544c21bd2d59ffa947608
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/scripts/strange/extensions/mediation/api/MediationEvent.cs
+  uploadId: 2759

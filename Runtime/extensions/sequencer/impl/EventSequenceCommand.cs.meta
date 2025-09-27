@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b021750e0a2674cb885a446cbb7429a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/EventSequenceCommand.cs
+  uploadId: 2759

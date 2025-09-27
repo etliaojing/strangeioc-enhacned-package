@@ -1,0 +1,18 @@
+{
+  "name": "com.etliaojing.strangeioc",
+  "version": "1.0.0",
+  "displayName": "Enhanced StrangeIoC",
+  "description": "Forked StrangeIoC packaged with enhanced features",
+  "unity": "2019.1",
+  "documentationUrl": "https://example.com/",
+  "dependencies": {},
+  "keywords": [
+    "etliaojing",
+    "StrangeIoC"
+  ],
+  "author": {
+    "name": "Jing Liao",
+    "email": "liaojing.cmsa@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}

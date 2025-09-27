@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd95a58c18a0ae541a741a43119319ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9267
+  packageName: StrangeIoC
+  packageVersion: 0.7.0
+  assetPath: Assets/StrangeIoC/scripts/strange/extensions/injector/impl/CrossContextInjectionBinder.cs
+  uploadId: 2759
