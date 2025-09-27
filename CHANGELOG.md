@@ -4,6 +4,10 @@
 
 Fork unity package repo to the custom IoC package.
 
+### Added
+- ContextEventView - a new view type that has direct access to the context event dispatcher
+- Delayed event binding on EventView
+
 ## [0.7.0]
 
 ### Added
