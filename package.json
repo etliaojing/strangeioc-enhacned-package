@@ -1,6 +1,6 @@
 {
   "name": "com.etliaojing.strangeioc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Enhanced StrangeIoC",
   "description": "Forked StrangeIoC packaged with enhanced features",
   "unity": "2019.1",

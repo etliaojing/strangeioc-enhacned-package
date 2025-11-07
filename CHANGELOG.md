@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2025-11-07
+
+### Fixed
+- Fix: `Context.firstContext`NRE if there are multiple parallel roots in the scene
+
 ## [1.0.0] - 2025-09-27
 
 Fork unity package repo to the custom IoC package.
